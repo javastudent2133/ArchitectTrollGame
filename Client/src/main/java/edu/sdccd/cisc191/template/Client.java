@@ -17,7 +17,7 @@ import java.io.*;
  */
 //Please create a branch. Then write your name below as I did and push it to your branch.
 //Team Member: Claudio Salas
-//Team Member:
+//Team Member: Jolson Lipa
 //Team Member:
 //Team Member:
 
